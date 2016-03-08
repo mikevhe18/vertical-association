@@ -5,6 +5,7 @@
 {
     'name': 'Website Membership Contact Visibility',
     'version': '8.0.1.0.0',
+    'summary': 'Adding functionality to set the visibility of contact information of each member',
     'author': 'Michael Viriyananda,Odoo Community Association (OCA)',
     'website': 'https://github.com/mikevhe18',
     'category': 'Website',
