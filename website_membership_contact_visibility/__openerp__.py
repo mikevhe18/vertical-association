@@ -15,4 +15,5 @@
         'views/website_membership.xml'
     ],
     'installable': True,
+    'license': 'AGPL-3',
 }
